@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniActv-1</string>
+    <string name="food">Plat principal</string>
+    <string name="dessert">Postre</string>
+    <string name="greetings">Bones tardes, amic!</string>
+    <string name="dessert_description">Postre tipic</string>
+    <string name="textToast">Eh!, m\'acabes de cliquejar!!!!</string>
+</resources>

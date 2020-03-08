@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiniActv-1</string>
+    <string name="food">First Dish</string>
+    <string name="dessert">Dessert</string>
+    <string name="greetings">Good afternoon, friend!</string>
+    <string name="dessert_description">This is a typical dessert</string>
+    <string name="textToast">You clicked on me!</string>
+</resources>
